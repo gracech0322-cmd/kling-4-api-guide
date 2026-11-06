@@ -1,0 +1,10 @@
+{
+  "name": "kling-4-api-nodejs-example",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env generate.mjs",
+    "check": "node generate.mjs --dry-run"
+  }
+}
