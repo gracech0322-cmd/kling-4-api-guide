@@ -2,7 +2,7 @@
 
 Run a ready-made Node.js script to turn ten keyframe images into a 10-second, 720p video. No coding experience is needed: download the project, add your API key, and run two commands in VS Code.
 
-This example uses [SeeGen AI](https://seegen.ai/?utm_source=githubkling) as the API provider. Its endpoints, authentication, request fields, and billing rules are provider-specific.
+This example uses [SeeGen AI](https://seegen.ai/?utm_source=githubkling) (sign up and join Discord can get 200 credits to test Kling 4.0) as the API provider. Its endpoints, authentication, request fields, and billing rules are provider-specific.
 
 The script uploads the images, waits for asset review, submits the video request, checks progress, and downloads the finished MP4. The sample images and prompt are included.
 
